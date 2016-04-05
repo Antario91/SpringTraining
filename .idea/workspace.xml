@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="427f3e11-8851-4fb9-b161-a74aaf223cc2" name="Default" comment="Добавлены классы: PoeticJuggler, Poem. Начата работа над классом Instrumentalist и его полями.">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Classes/Juggler.class" afterPath="$PROJECT_DIR$/target/classes/Classes/Juggler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/SpringTraining/SpringMain.class" afterPath="$PROJECT_DIR$/target/classes/SpringTraining/SpringMain.class" />
+    <list default="true" id="427f3e11-8851-4fb9-b161-a74aaf223cc2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Classes/Juggler.java" afterPath="$PROJECT_DIR$/src/main/java/Classes/Juggler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/SpringTraining/SpringMain.java" afterPath="$PROJECT_DIR$/src/main/java/SpringTraining/SpringMain.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/resources/Performers.xml" afterPath="$PROJECT_DIR$/src/resources/Performers.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Performers.xml" afterPath="$PROJECT_DIR$/target/classes/Performers.xml" />
     </list>
     <ignored path="SpringTraining.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -742,6 +736,14 @@
       <option name="presentableId" value="Default" />
       <updated>1459456143699</updated>
     </task>
+    <task id="LOCAL-00001" summary="Добавлены классы: PoeticJuggler, Poem. Начата работа над классом Instrumentalist и его полями.">
+      <created>1459519441522</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1459519441523</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -751,11 +753,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48899522" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4894636" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
