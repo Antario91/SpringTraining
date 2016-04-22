@@ -16,7 +16,7 @@
     <bean id = "sonnet29" class="Classes.Sonnet29">
     </bean>
 
-    <bean id="PoeticDuke" class="Classes.PoeticJuggler" scope="prototype">
+    <bean id="PoeticDuke" class="Classes.PoeticJuggler" scope="singleton">
         <constructor-arg value="15" />
         <constructor-arg ref="sonnet29" />
     </bean>
